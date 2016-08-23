@@ -1,0 +1,3 @@
+[submodule "FeatureB"]
+	path = FeatureB
+	url = https://github.com/lemome88/FeatureB
